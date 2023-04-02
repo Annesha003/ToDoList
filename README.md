@@ -1,4 +1,4 @@
-# TodoList
+# ToDoList
 
 In this Project ToDo List was created using ReactJS and reactStrap.
 
